@@ -10,6 +10,6 @@ D:\C#\Expression_Evaluator\Expression_Evaluator\bin\Debug\netcoreapp3.0\Expressi
 D:\C#\Expression_Evaluator\Expression_Evaluator\bin\Debug\netcoreapp3.0\Expression_Evaluator.runtimeconfig.json
 D:\C#\Expression_Evaluator\Expression_Evaluator\bin\Debug\netcoreapp3.0\Expression_Evaluator.runtimeconfig.dev.json
 D:\C#\Expression_Evaluator\Expression_Evaluator\obj\Debug\netcoreapp3.0\Expression_Evaluator.csproj.CopyComplete
+D:\C#\Expression_Evaluator\Expression_Evaluator\bin\Debug\netcoreapp3.0\Jace.dll
 D:\C#\Expression_Evaluator\Expression_Evaluator\bin\Debug\netcoreapp3.0\Evaluator.dll
 D:\C#\Expression_Evaluator\Expression_Evaluator\bin\Debug\netcoreapp3.0\Evaluator.pdb
-D:\C#\Expression_Evaluator\Expression_Evaluator\bin\Debug\netcoreapp3.0\Jace.dll
